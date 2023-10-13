@@ -1,1 +1,1 @@
-# alogirthmsFall23
+# algorithmsFall23
